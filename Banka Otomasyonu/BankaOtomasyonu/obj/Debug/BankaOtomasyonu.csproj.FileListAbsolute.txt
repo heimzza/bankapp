@@ -1,0 +1,66 @@
+C:\Users\Hamza\source\repos\BankaOtomasyonu\BankaOtomasyonu\bin\Debug\BankaOtomasyonu.exe.config
+C:\Users\Hamza\source\repos\BankaOtomasyonu\BankaOtomasyonu\bin\Debug\BankaOtomasyonu.exe
+C:\Users\Hamza\source\repos\BankaOtomasyonu\BankaOtomasyonu\bin\Debug\BankaOtomasyonu.pdb
+C:\Users\Hamza\source\repos\BankaOtomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Hamza\source\repos\BankaOtomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.AnaForm.resources
+C:\Users\Hamza\source\repos\BankaOtomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.Properties.Resources.resources
+C:\Users\Hamza\source\repos\BankaOtomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\Hamza\source\repos\BankaOtomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\source\repos\BankaOtomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.exe
+C:\Users\Hamza\source\repos\BankaOtomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.pdb
+C:\Users\Hamza\source\repos\BankaOtomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.formHesapAc.resources
+C:\Users\Hamza\source\repos\BankaOtomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.formGelirGider.resources
+C:\Users\Hamza\source\repos\BankaOtomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.formKullaniciEkle.resources
+C:\Users\Hamza\source\repos\BankaOtomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.formParaYatir.resources
+C:\Users\Hamza\Desktop\BankaOtomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Hamza\Desktop\BankaOtomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.AnaForm.resources
+C:\Users\Hamza\Desktop\BankaOtomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.formGelirGider.resources
+C:\Users\Hamza\Desktop\BankaOtomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.formHesapAc.resources
+C:\Users\Hamza\Desktop\BankaOtomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.formKullaniciEkle.resources
+C:\Users\Hamza\Desktop\BankaOtomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.formParaCek.resources
+C:\Users\Hamza\Desktop\BankaOtomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.formParaYatir.resources
+C:\Users\Hamza\Desktop\BankaOtomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.Properties.Resources.resources
+C:\Users\Hamza\Desktop\BankaOtomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\Hamza\Desktop\BankaOtomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\Desktop\BankaOtomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.exe
+C:\Users\Hamza\Desktop\BankaOtomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.pdb
+C:\Users\Hamza\Desktop\BankaOtomasyonu\BankaOtomasyonu\bin\Debug\BankaOtomasyonu.exe.config
+C:\Users\Hamza\Desktop\BankaOtomasyonu\BankaOtomasyonu\bin\Debug\BankaOtomasyonu.exe
+C:\Users\Hamza\Desktop\BankaOtomasyonu\BankaOtomasyonu\bin\Debug\BankaOtomasyonu.pdb
+C:\Users\Hamza\Desktop\BankaOtomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.formHavale.resources
+C:\Users\Hamza\Desktop\BankaOtomasyonu - Kopya (3)\BankaOtomasyonu\bin\Debug\BankaOtomasyonu.exe.config
+C:\Users\Hamza\Desktop\BankaOtomasyonu - Kopya (3)\BankaOtomasyonu\bin\Debug\BankaOtomasyonu.exe
+C:\Users\Hamza\Desktop\BankaOtomasyonu - Kopya (3)\BankaOtomasyonu\bin\Debug\BankaOtomasyonu.pdb
+C:\Users\Hamza\Desktop\BankaOtomasyonu - Kopya (3)\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Hamza\Desktop\BankaOtomasyonu - Kopya (3)\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.AnaForm.resources
+C:\Users\Hamza\Desktop\BankaOtomasyonu - Kopya (3)\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.formGelirGider.resources
+C:\Users\Hamza\Desktop\BankaOtomasyonu - Kopya (3)\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.formHavale.resources
+C:\Users\Hamza\Desktop\BankaOtomasyonu - Kopya (3)\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.formHesapAc.resources
+C:\Users\Hamza\Desktop\BankaOtomasyonu - Kopya (3)\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.formKullaniciEkle.resources
+C:\Users\Hamza\Desktop\BankaOtomasyonu - Kopya (3)\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.formParaCek.resources
+C:\Users\Hamza\Desktop\BankaOtomasyonu - Kopya (3)\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.formParaYatir.resources
+C:\Users\Hamza\Desktop\BankaOtomasyonu - Kopya (3)\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.Properties.Resources.resources
+C:\Users\Hamza\Desktop\BankaOtomasyonu - Kopya (3)\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\Hamza\Desktop\BankaOtomasyonu - Kopya (3)\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\Desktop\BankaOtomasyonu - Kopya (3)\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.exe
+C:\Users\Hamza\Desktop\BankaOtomasyonu - Kopya (3)\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.pdb
+C:\Users\Hamza\Desktop\BankaOtomasyonu - Kopya (3)\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.formHesapOzeti.resources
+C:\Users\Hamza\Desktop\BankaOtomasyonu - Kopya (3)\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.formHesapKapa.resources
+C:\Users\Hamza\Desktop\Banka Otomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Hamza\Desktop\Banka Otomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.AnaForm.resources
+C:\Users\Hamza\Desktop\Banka Otomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.formGelirGider.resources
+C:\Users\Hamza\Desktop\Banka Otomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.formHavale.resources
+C:\Users\Hamza\Desktop\Banka Otomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.formHesapAc.resources
+C:\Users\Hamza\Desktop\Banka Otomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.formHesapKapa.resources
+C:\Users\Hamza\Desktop\Banka Otomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.formHesapOzeti.resources
+C:\Users\Hamza\Desktop\Banka Otomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.formKullaniciEkle.resources
+C:\Users\Hamza\Desktop\Banka Otomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.formParaCek.resources
+C:\Users\Hamza\Desktop\Banka Otomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.formParaYatir.resources
+C:\Users\Hamza\Desktop\Banka Otomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.Properties.Resources.resources
+C:\Users\Hamza\Desktop\Banka Otomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\Hamza\Desktop\Banka Otomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\Desktop\Banka Otomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.exe
+C:\Users\Hamza\Desktop\Banka Otomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.pdb
+C:\Users\Hamza\Desktop\Banka Otomasyonu\BankaOtomasyonu\bin\Debug\BankaOtomasyonu.exe.config
+C:\Users\Hamza\Desktop\Banka Otomasyonu\BankaOtomasyonu\bin\Debug\BankaOtomasyonu.exe
+C:\Users\Hamza\Desktop\Banka Otomasyonu\BankaOtomasyonu\bin\Debug\BankaOtomasyonu.pdb
